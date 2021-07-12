@@ -57,7 +57,7 @@ body{
 	padding: 10px;
 	display: inline-block;
 	place-items:center;
-	margin-left: 10px;
+	margin-left: 5px;
 }
 .greyish {
   background: smoke !important;
@@ -76,7 +76,7 @@ h1 {
   -moz-transition:.5s;
   -webkit-transition:.5s;
   transition:.5s;
-  height: 325px;
+  height: 255px;
   object-fit: cover;
 }
 
@@ -87,9 +87,9 @@ h1 {
   height: 255px;
   width: 160px;
   overflow: hidden;
-  margin: 0px 10px;
+  margin: 0px 5px;
   border-radius: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .spbutton {
