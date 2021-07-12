@@ -1,6 +1,6 @@
 .pagination{
   position: absolute;
-  top: 100%;
+  top: 0%;
   width: 100%;
   text-align: center;
   transform: translateY(-50%);
