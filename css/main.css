@@ -53,11 +53,11 @@ body{
 .movie-list{
 	min-height: 85vh;
 	margin: auto;
-	width: 95%;
+	width: 100%;
 	padding: 10px;
 	display: inline-block;
 	place-items:center;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 .greyish {
   background: smoke !important;
